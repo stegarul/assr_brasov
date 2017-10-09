@@ -1,0 +1,5 @@
+assr-server/out/
+assr-server/build/
+assr-server/.gradle/
+assr-server/.idea/
+assr-server/gradle/
